@@ -5,3 +5,7 @@ Given the following diagram:\
 ![plot](./laberinto.png)
 \
 we can see that it has no cycling or non-accesible cells, which can be made using an MST (Minimum Spanning Tree) representation of the graph used to create the labyrinth.
+## Outputs
+Here are the outputs that the program gives by console\
+![plot](./output1.png)
+![plot](./output2.png)
